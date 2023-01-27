@@ -68,7 +68,6 @@ JFrame_Puzzle() {
 	
 	@Override
 	public void actionPerformed(ActionEvent e) {
-		// TODO Auto-generated method stub
 		
 		if(e.getSource() == next) {
 			
@@ -168,7 +167,6 @@ JFrame_Puzzle() {
 	
 
 	public static void main(String[] args) {
-		//TODO Auto-generated method stub
 		
 		new JFrame_Puzzle();
 
